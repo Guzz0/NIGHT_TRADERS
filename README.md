@@ -1,8 +1,8 @@
 # Proyecto Final - Night Traders
 
-<div style='text-align: center'>
+<p align="center">
 <img src="https://github.com/Guzz0/NIGHT_TRADERS/blob/main/VISUALIZACION/candle.png" width="100%" style='border-radius:10%'>
-</div>
+</p>
 
 
 
@@ -31,3 +31,5 @@ El objetivo de este proyecto es desarrollar una aplicación para análisis de da
 
 <!-- IMAGE OF ARQUTIECTURA -->
 ![image.svg](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/ARQUITECTURA/Arquitectura.svg)
+
+
