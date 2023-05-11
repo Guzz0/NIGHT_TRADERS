@@ -40,7 +40,9 @@ El objetivo de este proyecto es desarrollar una aplicación para análisis de da
 <!-- IMAGE OF ARQUTIECTURA -->
 ![image.svg](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/ARQUITECTURA/Arquitectura.svg)
 
+Dentro de la carpeta de arquitectura tenemos un anexo con información específica de cada uno de los componentes.
 
+(ver [ARQUITECTURA](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/ARQUITECTURA/Arquitectura_reporte%20(1).pdf))
 ## Notebooks
 
 Tenemos 3 notebooks principales:
