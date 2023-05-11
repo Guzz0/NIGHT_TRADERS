@@ -1,10 +1,8 @@
 # Proyecto Final - Night Traders
 
-<p align="center">
-<img src="https://github.com/Guzz0/NIGHT_TRADERS/blob/main/VISUALIZACION/candle.png" width="90%" style='border-radius:40%'>
-</p>
 
 
+![image](https://images.unsplash.com/photo-1612010167108-3e6b327405f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80)
 
 
 
@@ -65,6 +63,9 @@ Tenemos 3 notebooks principales:
 ## Visualización 
 
 Se ha desarrollado un dashboard en Tableau para visualizar las métricas de las compañías del IBEX35.
+<p align="center">
+<img src="https://github.com/Guzz0/NIGHT_TRADERS/blob/main/VISUALIZACION/candle.png" width="90%" style='border-radius:40%'>
+</p>
 
 ## Tecnologías utilizadas
 
