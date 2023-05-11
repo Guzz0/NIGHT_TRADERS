@@ -49,9 +49,16 @@ Tenemos 3 notebooks principales:
 
 <!-- list -->
 
-1. Indicadores_Final.ipynb
-2. Preprocesado_Final.ipynb
-3. Modelado_Final.ipynb
+| Notebook | Enlace |
+| --- | --- |
+| 1_Indicadores_Final.ipynb | <a target="_blank" href="https://colab.research.google.com/github/Guzz0/NIGHT_TRADERS/blob/main/NOTEBOOKS/1_Indicadores_Final.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+| 2_ Preprocesado_Final.ipynb | <a target="_blank" href="https://colab.research.google.com/github/Guzz0/NIGHT_TRADERS/blob/main/NOTEBOOKS/2_Preprocesado_Final.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+| 3_Modelado_final.ipynb | <a target="_blank" href="https://colab.research.google.com/github/Guzz0/NIGHT_TRADERS/blob/main/NOTEBOOKS/1_Indicadores_Final.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> |
+
+
 
 ## Visualización 
 
@@ -62,6 +69,7 @@ Se ha desarrollado un dashboard en Tableau para visualizar las métricas de las 
 <!-- insert icons for python -->
 
 [![My Skills](https://skillicons.dev/icons?i=python,gcp,d3,git,github,selenium,html,css,js)](https://skillicons.dev)
+
 
 ## Autores
 
