@@ -35,6 +35,9 @@ Dentro de la carpeta de arquitectura tenemos un anexo con información específi
 Tenemos 3 notebooks principales:
 
 <!-- list -->
+<!-- center -->
+<div align="center">
+
 
 | Notebook | Enlace |
 | --- | --- |
@@ -46,6 +49,7 @@ Tenemos 3 notebooks principales:
 </a> |
 <!-- end table -->
 
+</div>
 
 
 
