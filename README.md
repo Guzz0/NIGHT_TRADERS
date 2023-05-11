@@ -78,7 +78,7 @@ Se ha desarrollado un dashboard en Tableau para visualizar las métricas de las 
 
 ### Agradecimientos
 <p>
-El proyecto se desarrollo como parte del Bootcamp en Big Data, IA y Machine Learning de **KeepCoding** <img src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/logo_circulo_keepcoding_ajustado/original.png?1560210065" alt="Keepcoding logo" height='15px'>. Agradecemos a todos los profesores y mentores que nos ayudaron a lo largo del curso.
+El proyecto se desarrollo como parte del Bootcamp en Big Data, IA y Machine Learning de <strong>KeepCoding</strong> <img src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/logo_circulo_keepcoding_ajustado/original.png?1560210065" alt="Keepcoding logo" height='15px'>. Agradecemos a todos los profesores y mentores que nos ayudaron a lo largo del curso.
 
 </p>
 
