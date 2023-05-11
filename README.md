@@ -28,10 +28,10 @@ El objetivo de este proyecto es desarrollar una aplicación para análisis de da
 | Archivo | Descripción | 
 | --- | --- |
 | `README.md` | Archivo con la descripción del proyecto |
-| [ARQUITECTURA](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/ARQUITECTURA)| Carpeta con los archivos de la arquitectura del proyecto |
-| [NOTEBOOKS](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/NOTEBOOKS) | Carpeta con los notebooks de los análisis realizados |
-| [VISUALIZACION](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/VISUALIZACION) | Carpeta con las visualizaciones realizadas |
-| [PresentacionTFG.pdf](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/PresentacionTFB.pdf) | Presentación del proyecto |
+| [/ARQUITECTURA](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/ARQUITECTURA)| Carpeta con los archivos de la arquitectura del proyecto |
+| [/NOTEBOOKS](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/NOTEBOOKS) | Carpeta con los notebooks de los análisis realizados |
+| [/VISUALIZACION](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/VISUALIZACION) | Carpeta con las visualizaciones realizadas |
+| [PresentacionTFB.pdf](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/PresentacionTFB.pdf) | Presentación del proyecto |
 
 ## Arquitectura
 
