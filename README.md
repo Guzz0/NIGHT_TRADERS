@@ -53,11 +53,7 @@ Tenemos 3 notebooks principales:
 
 ## Visualización 
 
-Se ha desarrollado un dashboard en Tableau 
-<!-- insert tableau icon -->
-
-
-para visualizar las métricas de las compañías del IBEX35.
+Se ha desarrollado un dashboard en Tableau para visualizar las métricas de las compañías del IBEX35.
 
 ## Tecnologías utilizadas
 
