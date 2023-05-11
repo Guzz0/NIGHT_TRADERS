@@ -13,6 +13,11 @@ Nuestro proyecto se enfocó en analizar y predecir el cierre de huecos nocturnos
 <!-- imagen del ibex -->
 
 <!-- tabla de markdown -->
+<!-- Estructura -->
+
+## Estrucutra del proyecto
+<!-- div -->
+<div align="center">
 
 | Archivo | Descripción | 
 | --- | --- |
@@ -22,6 +27,7 @@ Nuestro proyecto se enfocó en analizar y predecir el cierre de huecos nocturnos
 | [/VISUALIZACION](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/VISUALIZACION) | Carpeta con las visualizaciones realizadas |
 | [PresentacionTFB.pdf](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/PresentacionTFB.pdf) | Presentación del proyecto |
 
+</div>
 ## Arquitectura
 
 <!-- IMAGE OF ARQUTIECTURA -->
