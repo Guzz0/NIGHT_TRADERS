@@ -55,7 +55,7 @@ Tenemos 3 notebooks principales:
 
 Se ha desarrollado un dashboard en Tableau 
 <!-- insert tableau icon -->
-[![Tableau](
+
 
 para visualizar las métricas de las compañías del IBEX35.
 
@@ -63,4 +63,4 @@ para visualizar las métricas de las compañías del IBEX35.
 
 <!-- insert icons for python -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,gcp,d3,git,github,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,gcp,d3,git,github,selenium,html,css,js)](https://skillicons.dev)
