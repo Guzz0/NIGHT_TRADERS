@@ -8,7 +8,15 @@
 
 
 
-Este es el repositorio del proyecto final del Bootcamp Big Data, IA e Inteligencia Artificial de KeepCoding. El objetivo de este proyecto es desarrollar una aplicación para análisis de datos financieros en tiempo real para traders que operan durante la noche.
+En este proyecto de **Big Data**, nos hemos enfocado en analizar y predecir el cierre de huecos nocturnos bursátiles utilizando diferentes índices bursátiles y variables financieras. Inicialmente, comenzamos utilizando datos de Alpha Advantage, pero debido a complicaciones en la obtención de datos, decidimos descargarlos de Yahoo Finance.
+
+Una vez obtenidos los datos de <font color='purple'>Yahoo Finance</font> , agregamos índices bursátiles y otras variables relevantes para nuestro objetivo. Evaluamos diversas combinaciones de índices y variables para determinar cuáles eran las más importantes y necesarias. Para mejorar nuestras predicciones, implementamos una función que desplaza todos los índices bursátiles un día hacia adelante.
+
+Posteriormente, llevamos a cabo pruebas con diversos modelos de aprendizaje automático, como redes neuronales,  Random Forest y Gradient Boosting, entre otros. Después de compararlos exhaustivamente, seleccionamos el modelo de ensamble Stacking Classifier como nuestro enfoque óptimo.
+
+Aplicamos el modelo de Stacking Classifier en un conjunto de datos final compuesto por los últimos 30 días de movimientos bursátiles, lo que nos permitió obtener predicciones actualizadas y relevantes para el cierre de huecos nocturnos bursátiles. Con estos resultados, creamos un dashboard en Tableau que facilita a los clientes el acceso rápido y eficaz a las predicciones de nuestro modelo.
+
+Este proyecto se ha centrado en predecir el cierre de huecos nocturnos bursátiles utilizando diferentes índices bursátiles y variables financieras. Hemos explorado diversas fuentes de datos, índices, variables y modelos de aprendizaje automático para optimizar nuestras predicciones. **Como resultado**, seleccionamos el modelo Stacking Classifier y lo aplicamos en un conjunto de datos objetivo que contiene los últimos 30 días de movimientos bursátiles. Finalmente, hemos creado un dashboard en *Tableau* que brinda a los clientes un acceso fácil y rápido a las predicciones de nuestro modelo, facilitando la toma de decisiones en el ámbito financiero y bursátil.
 
 
 ## Descripción del proyecto
