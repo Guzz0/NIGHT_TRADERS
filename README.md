@@ -27,7 +27,7 @@ El objetivo de este proyecto es desarrollar una aplicación para análisis de da
 | [VISUALIZACION](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/VISUALIZACION) | Carpeta con las visualizaciones realizadas |
 | [PresentacionTFG.pdf](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/PresentacionTFB.pdf) | Presentación del proyecto |
 
-##  Arquitectura
+## Arquitectura
 
 <!-- IMAGE OF ARQUTIECTURA -->
 ![image.svg](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/ARQUITECTURA/Arquitectura.svg)
