@@ -1,6 +1,7 @@
 # Proyecto Final - Night Traders
 
-<div style='text-align: center'><img src="https://startupxplore.com/uploads/ff8080814e06a089014e77513990067d-large.png" width="20%" style='border-radius:10%'>
+<div style='text-align: center'>
+<img src="https://startupxplore.com/uploads/ff8080814e06a089014e77513990067d-large.png" width="20%" style='border-radius:10%'>
 </div>
 
 
@@ -18,7 +19,7 @@ El objetivo de este proyecto es desarrollar una aplicación para análisis de da
 | Archivo | Descripción | 
 | --- | --- |
 | `README.md` | Archivo con la descripción del proyecto |
-| ARQUITECTURA| Carpeta con los archivos de la arquitectura del proyecto |
-| NOTEBOOKS | Carpeta con los notebooks de los análisis realizados |
-| VISUALIZACION | Carpeta con las visualizaciones realizadas |
-| PresentacionTFG.pdf | Presentación del proyecto |
+| [ARQUITECTURA](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/ARQUITECTURA)| Carpeta con los archivos de la arquitectura del proyecto |
+| [NOTEBOOKS](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/NOTEBOOKS) | Carpeta con los notebooks de los análisis realizados |
+| [VISUALIZACION](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/VISUALIZACION) | Carpeta con las visualizaciones realizadas |
+| [PresentacionTFG.pdf](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/PresentacionTFB.pdf) | Presentación del proyecto |
