@@ -52,11 +52,13 @@ Tenemos 3 notebooks principales:
 | Notebook | Enlace |
 | --- | --- |
 | 1_Indicadores_Final.ipynb | <a target="_blank" href="https://colab.research.google.com/github/Guzz0/NIGHT_TRADERS/blob/main/NOTEBOOKS/1_Indicadores_Final.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> 
+</a> |
 | 2_ Preprocesado_Final.ipynb | <a target="_blank" href="https://colab.research.google.com/github/Guzz0/NIGHT_TRADERS/blob/main/NOTEBOOKS/2_Preprocesado_Final.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> 
+</a> |
 | 3_Modelado_final.ipynb | <a target="_blank" href="https://colab.research.google.com/github/Guzz0/NIGHT_TRADERS/blob/main/NOTEBOOKS/1_Indicadores_Final.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> |
+<!-- end table -->
+
 
 
 
