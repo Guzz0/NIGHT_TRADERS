@@ -41,3 +41,26 @@ El objetivo de este proyecto es desarrollar una aplicación para análisis de da
 ![image.svg](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/ARQUITECTURA/Arquitectura.svg)
 
 
+## Notebooks
+
+Tenemos 3 notebooks principales:
+
+<!-- list -->
+
+1. Indicadores_Final.ipynb
+2. Preprocesado_Final.ipynb
+3. Modelado_Final.ipynb
+
+## Visualización 
+
+Se ha desarrollado un dashboard en Tableau 
+<!-- insert tableau icon -->
+[![Tableau](
+
+para visualizar las métricas de las compañías del IBEX35.
+
+## Tecnologías utilizadas
+
+<!-- insert icons for python -->
+
+[![My Skills](https://skillicons.dev/icons?i=python,gcp,d3,git,github,selenium)](https://skillicons.dev)
