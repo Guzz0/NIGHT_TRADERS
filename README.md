@@ -1,7 +1,7 @@
 # Proyecto Final - Night Traders
 
 <p align="center">
-<img src="https://github.com/Guzz0/NIGHT_TRADERS/blob/main/VISUALIZACION/candle.png" width="40%" style='border-radius:20%'>
+<img src="https://github.com/Guzz0/NIGHT_TRADERS/blob/main/VISUALIZACION/candle.png" width="90%" style='border-radius:40%'>
 </p>
 
 
