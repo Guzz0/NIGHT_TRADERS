@@ -60,3 +60,16 @@ Se ha desarrollado un dashboard en Tableau para visualizar las métricas de las 
 <!-- insert icons for python -->
 
 [![My Skills](https://skillicons.dev/icons?i=python,gcp,d3,git,github,selenium,html,css,js)](https://skillicons.dev)
+
+## Autores
+
+<!-- inserta lsita de adutore -->
+
+- José Carlos Amo
+- Illari Alvarez-Gil
+- Dairon Andrés Benites
+- Andres Guzzo
+
+## Licencia
+
+[GNU](https://www.gnu.org/licenses/gpl-3.0.html) © 2023 - Night Traders
