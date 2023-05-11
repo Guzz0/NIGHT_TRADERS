@@ -5,6 +5,9 @@
 </div>
 
 
+
+
+
 Este es el repositorio del proyecto final del Bootcamp Big Data, IA e Inteligencia Artificial de KeepCoding. El objetivo de este proyecto es desarrollar una aplicación para análisis de datos financieros en tiempo real para traders que operan durante la noche.
 
 
@@ -23,3 +26,8 @@ El objetivo de este proyecto es desarrollar una aplicación para análisis de da
 | [NOTEBOOKS](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/NOTEBOOKS) | Carpeta con los notebooks de los análisis realizados |
 | [VISUALIZACION](https://github.com/Guzz0/NIGHT_TRADERS/tree/main/VISUALIZACION) | Carpeta con las visualizaciones realizadas |
 | [PresentacionTFG.pdf](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/PresentacionTFB.pdf) | Presentación del proyecto |
+
+##  Arquitectura
+
+<!-- IMAGE OF ARQUTIECTURA -->
+![image.svg](https://github.com/Guzz0/NIGHT_TRADERS/blob/main/ARQUITECTURA/Arquitectura.svg)
